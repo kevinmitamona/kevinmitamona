@@ -17,7 +17,7 @@ My main skills include my ability to adapt and my rigour in the face of change.
 - [Github learning ](https://github.com/universdesdonnees/Git-Introduction)
 
 ## My missions at [Airbus](https://www.airbus.com/en/our-worldwide-presence/airbus-in-europe/airbus-in-france)
-I'm currently working as data analys and performing differents tasks such as:
+I'm currently working as data analyst and performing differents tasks such as:
 - **Analyzing digital solutions available in Airbus**
 - **Defining the most appropriate platform to be used**
 - **Developing data visualization (dashboard)using necessary coding languages**
