@@ -5,7 +5,7 @@ I'm a Master I student in data and artificial intelligence project management, w
 I would like to progress in this field in order to increase my skills.
 My main skills include my ability to adapt and my rigour in the face of change.
 
-## Mes achieved projects
+## My achieved projects
 - **Spotify data analysis** : [Rstudio Analyse de données](https://github.com/CeliaMarty/CeliaMarty/blob/main/CeliaMARTY-Spotify.R)
 - **Creation of a web app application with crime data** : [crime app](https://github.com/CeliaMarty/Projet-R-Shiny-)
 - **Creation of a web app appliaction with shopper sentiments data** : [shopper app](https://github.com/kvnmits/Shopper-project)
