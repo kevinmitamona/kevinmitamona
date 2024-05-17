@@ -9,7 +9,7 @@ My main skills include my ability to adapt and my rigour in the face of change.
 - **Spotify data analysis** : [Rstudio Analyse de données](https://github.com/CeliaMarty/CeliaMarty/blob/main/CeliaMARTY-Spotify.R)
 - **Creation of a web app application with crime data** : [crime app](https://github.com/CeliaMarty/Projet-R-Shiny-)
 - **Creation of a web app appliaction with shopper sentiments data** : [shopper app](https://github.com/kvnmits/Shopper-project)
-
+-**Webscrapping using python**:[Happyhours]()
 ## My courses at [AI School](https://www.intelligence-artificielle-school.com/?gad_source=1&gclid=CjwKCAiAzc2tBhA6EiwArv-i6XwkpvU_si8Yn0hhWdH2kiAUW3x4Ne77_lVRISqh2ZKlv5cyZFadgRoCPjoQAvD_BwE)
 - [R](https://app.datacamp.com/learn/courses/intermediate-r)
 - [R-shiny](https://github.com/universdesdonnees/R-Shiny)
