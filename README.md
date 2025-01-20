@@ -1,7 +1,7 @@
 # Hi everyone👋
 
 
-I'm a Master I student in data and artificial intelligence project management, with a passion for IT development and data processing.
+I'm a Master II student in data and artificial intelligence project management, with a passion for IT development and data processing.
 I would like to progress in this field in order to increase my skills.
 My main skills include my ability to adapt and my rigour in the face of change.
 
