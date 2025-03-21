@@ -18,7 +18,9 @@ My main skills include my ability to adapt and my rigour in the face of change.
 - [Github learning ](https://github.com/universdesdonnees/Git-Introduction)
 
 ## My missions at [Airbus](https://www.airbus.com/en/our-worldwide-presence/airbus-in-europe/airbus-in-france)
-I'm currently working as data analyst and performing differents tasks such as:
+As a Data Analyst in the Customer Care Center, my mission is to support the various
+managers in making improvements based on the analysis of our business data. Using
+advanced digital tools such as TechRequest, Skywise and SAP Cloud. My main missions:
 - **Analyzing digital solutions available in Airbus**
 - **Defining the most appropriate platform to be used**
 - **Developing data visualization (dashboard)using necessary coding languages**
