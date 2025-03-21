@@ -14,7 +14,7 @@ My main skills include my ability to adapt and my rigour in the face of change.
 ## My courses at [AI School](https://www.intelligence-artificielle-school.com/?gad_source=1&gclid=CjwKCAiAzc2tBhA6EiwArv-i6XwkpvU_si8Yn0hhWdH2kiAUW3x4Ne77_lVRISqh2ZKlv5cyZFadgRoCPjoQAvD_BwE)
 - [R](https://app.datacamp.com/learn/courses/intermediate-r)
 - [R-shiny](https://github.com/universdesdonnees/R-Shiny)
-- [Python - Intermidiate](https://app.datacamp.com/learn/courses/intermediate-python)
+- [Python](https://app.datacamp.com/learn/courses/intermediate-python)
 - [Github learning ](https://github.com/universdesdonnees/Git-Introduction)
 
 ## My missions at [Airbus](https://www.airbus.com/en/our-worldwide-presence/airbus-in-europe/airbus-in-france)
@@ -24,7 +24,7 @@ I'm currently working as data analyst and performing differents tasks such as:
 - **Developing data visualization (dashboard)using necessary coding languages**
 - **User training**
 - **Identifying new digital opportunities to improve the business & processes**
-- **Promoting digital mindset within the SBCA organization**
+- **Promoting digital mindset within the organization**
 
 
 ## Contacts
